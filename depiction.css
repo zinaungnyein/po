@@ -660,6 +660,10 @@ a {
     margin-right: auto;
 }
 
+div.texta {
+    text-align: center;
+}
+
 /* Error Warning at top of Depiction */
 .errorWarning {
     margin-top: 5px;
