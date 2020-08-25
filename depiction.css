@@ -654,6 +654,13 @@ a {
 	left: 24px;
 }
 
+.repofoot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 /* Error Warning at top of Depiction */
 .errorWarning {
     margin-top: 5px;
