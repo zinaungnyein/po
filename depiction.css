@@ -13,6 +13,7 @@
 }
 
 #bannerImage {
+    box-shadow: inset 0 0 100px black;
     background-image: linear-gradient(#034C4F, #36DBCB);
     position: absolute;
     top: 0;
