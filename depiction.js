@@ -92,8 +92,8 @@ function renderSileoDepiction(config) {
         // Set Banner Image
         if (config.hasOwnProperty('headerImage')) {
             bannerImage.style.backgroundImage = "url(" + config.headerImage + ")"
-            bannerImage.style.filter = "brightness(0.5)";
-            bannerImage.style.webkitFilter = "brightness(0.5)";
+            bannerImage.style.filter = "brightness(1)";
+            bannerImage.style.webkitFilter = "brightness(1)";
         }
         // Clear Tabs
         var pillTextsArray = document.getElementsByClassName("pillText")
