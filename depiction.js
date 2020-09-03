@@ -43,7 +43,7 @@ async function getSileoDepiction(URL) {
         // Create Error Warning Message at top of content
         var errorWarning = document.createElement("div")
             errorWarning.className = "errorWarning"
-            errorWarning.innerText = "Failed to load SileoDepiction JSON File"
+            errorWarning.innerText = "The webpage depiction of this package is under maintenance!"
         document.getElementById("mainWrapper").appendChild(errorWarning)
         console.log(error)
     }
