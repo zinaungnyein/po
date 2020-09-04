@@ -655,6 +655,10 @@ a {
 	left: 24px;
 }
 
+@font-face {
+    src: url(fonts/CookieRun-Regular.otf) format('opentype');
+    font-family: 'CookieRun-Regular';
+
 .repofoot {
     display: block;
     margin-left: auto;
