@@ -98,6 +98,7 @@
                 </div>
             </div>
         </div>
+              <img src="./CydiaIcon.png" class="repofoot">
               <p style="text-align:center; font-weight:normal; font-size:25px; color:#F7786B; font-family:'CookieRun-Regular';">Pomelon</p>
               <p style="text-align:center; font-weight:light; font-size:14px; color:#FF6F61; font-family:'CookieRun-Regular';">Life was A Box of Chocolates</p>
         <script src="global.js"></script>
